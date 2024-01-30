@@ -1,6 +1,6 @@
 ---
-title: "Merhaba Dünya"
-description: "İlk Yazım"
+title: "Merhaba Dunya"
+description: "Ilk Yazım"
 date: 2024-01-30T15:40:35Z
 image: helloWorld.png
 math: 
