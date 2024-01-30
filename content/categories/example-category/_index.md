@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Blog
+description: Blog Yazılarının oldugu bolum.
 image:
 
 # Badge style
