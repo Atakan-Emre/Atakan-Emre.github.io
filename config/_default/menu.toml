@@ -23,12 +23,6 @@ url = "https://twitter.com/dev_atakan"
 [social.params]
 icon = "brand-twitter"
 
-[[social]]
-identifier = "instagram"
-name = "Instagram"
-url = "https://twitter.com/dev_atakan"
 
-[social.params]
-icon = "brand-instagram"
 
 
