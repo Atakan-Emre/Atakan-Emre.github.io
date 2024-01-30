@@ -11,4 +11,4 @@ draft: true
 tags: ["Software", "Blog"]
 ---
 
-Bu yazdıklarım bir buz dağının görünen kısmıdır ve devamı gelecektir
+Deneme
